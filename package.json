@@ -1,0 +1,39 @@
+{
+  "name": "dummy-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dsr-rollback-org-hover-owled-agios-situs/dsr-rollback-package-hover-owled-agios-situs": "^0.0.1-security",
+    "@homelte_dev/frontend": "^0.0.1-security",
+    "@momo-miniapp/api": "^0.0.1-security",
+    "@momo-miniapp/apix": "^0.0.1-security",
+    "agen-sbobet-judi-bola-online-terpercaya-paling-lengkap": "^0.0.1-security",
+    "axios-http": "^0.0.1-security",
+    "axioss": "^0.0.1-security",
+    "babel-traverse": "^6.26.0",
+    "daftar-10-bandar-togel-singapore-terpercaya-agen-pay4d-terbesar-di-asia": "^0.0.1-security",
+    "daftar-situs-judi-slot-online-gacor-gampang-menang-2023": "^0.0.1-security",
+    "data-kempremium": "^0.0.1-security",
+    "fca-kemdev": "^0.0.1-security",
+    "kempremium-dev": "^0.0.1-security",
+    "lodash": "^0.6.0",
+    "onno-missing-2023-full-movies-at-home-streamnig": "^0.0.1-security",
+    "pragmaticplay-situs-slot-online-banyak-hoki-paling-terpercaya": "^0.0.1-security",
+    "situs-bandar-togel-hadiah-4d-10-juta-terpercaya-hk-sgp-sdy": "^0.0.1-security",
+    "situs-bocoran-rtp-live-bocoran-agen-judi-rtp-slot-hari-ini-terpercaya": "^0.0.1-security",
+    "situs-slot-gacor-pragmatic-play-dijamin-menang-tahun-2023": "^0.0.1-security",
+    "situs-slot-gacor-slot-online-resmi-terbaik-mudah-menang-dan-maxwin-2023": "^0.0.1-security",
+    "situs-slot-kakek-petir-slot-zeus-pragmaticplay-gampang-menang": "^0.0.1-security",
+    "trin-axios": "^0.0.1-security",
+    "usaa-axios-factory": "^0.0.1-security",
+    "very-bad-npm": "^0.0.1-security",
+    "very-bad-npm-package": "^0.0.1-security",
+    "very-bad-npm-package2": "^0.0.1-security"
+  }
+}
